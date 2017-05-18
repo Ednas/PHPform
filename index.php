@@ -2,6 +2,16 @@
 <html
 <head>
   <?php require './head.php' ?>
+  <style>
+    p {
+      font-size: 18px;
+    }
+
+    footer {
+      padding: 2em;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
